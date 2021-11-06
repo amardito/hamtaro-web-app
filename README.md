@@ -1,2 +1,3 @@
 # hamtaro-web-app
-Hamtaro is website platform watch mirror anime/manga/manhua/manhwa from other website with advanced search filter system , and user interaction
+Hamtaro is website platform watching anime, mirroring from other website and self project with advanced search filter system , and user interaction.
+Created for community 
